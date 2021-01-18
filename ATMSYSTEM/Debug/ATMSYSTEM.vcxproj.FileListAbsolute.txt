@@ -1,0 +1,4 @@
+C:\Users\alipi\Desktop\ATMSYSTEM\Debug\ATMSYSTEM.exe
+C:\Users\alipi\Desktop\ATMSYSTEM\Debug\ATMSYSTEM.pdb
+D:\OOP\ATMSYSTEM\Debug\ATMSYSTEM.exe
+D:\OOP\ATMSYSTEM\Debug\ATMSYSTEM.pdb
